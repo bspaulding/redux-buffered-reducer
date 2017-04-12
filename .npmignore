@@ -3,3 +3,4 @@ public
 rollup.config.js
 yarn.lock
 src
+build
