@@ -1,6 +1,6 @@
 # redux-buffered-reducer
 
-A simple reducer enhancer to buffer changes.
+A simple reducer enhancer to buffer changes. [Demo](https://bspaulding.github.com/redux-buffered-reducer)
 
 ## Usage
 
