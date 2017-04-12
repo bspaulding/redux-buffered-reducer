@@ -32,3 +32,12 @@ The state returned by the buffered reducer has a `bufferedState` and `state` pro
 	state: { count: 0 }
 }
 ```
+
+And after flushing:
+
+```javascript
+{
+	bufferedState: { count: 4 },
+	state: { count: 4 }
+}
+```
